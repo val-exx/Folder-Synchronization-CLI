@@ -59,10 +59,10 @@ Every execution appends a new entry to **`report.txt`**, containing:
 ### Basic synchronization: 
 ```bash
 python sync.py --source "C:/Users/Vale/documents" --dest "D:/backup"
-
+```
 ### Basic synchronization + delete obsolete files:
 ```bash
 python sync.py --source "C:/Users/Vale/documents" --dest "D:/backup" --delete
-
+```
 
 
