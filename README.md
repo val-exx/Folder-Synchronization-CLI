@@ -60,7 +60,7 @@ Every execution appends a new entry to **`report.txt`**, containing:
 ```bash
 python sync.py --source "C:/Users/Vale/documents" --dest "D:/backup"
 
-#### Basic synchronization + delete obsolete files:
+**#### Basic synchronization + delete obsolete files:**
 ```bash
 python sync.py --source "C:/Users/Vale/documents" --dest "D:/backup" --delete
 
