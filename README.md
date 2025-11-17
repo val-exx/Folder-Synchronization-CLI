@@ -20,12 +20,12 @@ This project was created as a personal exercise to practice Python, filesystem m
 ---
 
 ## 📁 Project Structure
-folder-sync-cli/
-|---main.py
-|---sync_manager.py
-|---report.txt
-|---documents
-|---backup
+folder-sync-cli/  
+├── main.py  
+├── sync_manager.py  
+├── report.txt  
+├── documents  
+└── backup
 
 ---
 
